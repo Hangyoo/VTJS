@@ -1,0 +1,13 @@
+  Type           MIPS     Bandwidth    Storage    coreNumber       processor               
+PH-type1      27079          20              500               2       Intel Core 2 Extreme X6800           
+PH-type2      83000          20              500               2             Intel Core i5-2500K            
+PH-type3      82300          20              500               4             Inter Core i7-920
+PH-type4      92100          20              500               4             Inter Core i7-875K
+
+
+  Index      MIPS     Bandwidth    Storage    coreNumber       processor                Unit_price(￥/h)
+   PH1       83000          20              500               2       Intel Core i5-2500K                      5.64
+   PH2       83000          20              500               2       Intel Core i5-2500K                      12.0
+   PH3       82300          20              500               4       Intel Core i5-2500K                      10.125
+   PH4       27079          20              500               2       Intel Core 2 Extreme X6800          1.50
+   PH5       83000          20              500               4       Inter Core i7-875K                       18.75
